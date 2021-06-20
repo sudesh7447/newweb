@@ -1,0 +1,110 @@
+body{
+  text-align: center;
+  background-color: #DEEDF0;
+  color: #40514E;
+  font-family: verdana, monospace;
+  padding-top: 25px;
+}
+h1{
+
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+.cloud{
+  position: absolute;
+  left: 300px;
+}
+hr{
+  border: dotted #B4846C 6px;
+  width: 4%;
+  border-bottom: none;
+}
+    .p{
+      margin: 0 auto 0 auto;
+      width: 250px;
+    }
+    p{
+      line-height: 2;
+    }
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+.side{
+  text-align: left;
+}
+.ncode{
+  border-radius: 100%;
+  float: right;
+  width: 20%;
+
+}
+
+h3{
+  font-weight: normal;
+  font-size: 2rem;
+  color: #11999B;
+}
+
+.code{
+  border-radius: 100%;
+  float: left;
+  padding-right: 30px;
+}
+.prof{
+  border-radius: 100%;
+}
+.mcloud{
+  position: relative;
+  top: 40px;
+  left: 300px;
+}
+
+.contact-me{
+  padding-bottom: 30px;
+}
+.btn {
+
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+font-family: verdana, monospace;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+a{
+  color: #F6C6EA;
+  font-family: verdana, monospace;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #293B5F;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 40px 0 20px;
+  border: 0;
+}
